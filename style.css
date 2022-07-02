@@ -6,6 +6,7 @@
   --texto: #000000;
   --subtitulo: rgba(0, 0, 0, 0.2);
   --onda: url("./img/onda.svg");
+  --vantagens: #F20C0C;
 }
 :root {
   --cor-primaria: #FFD700;
@@ -15,6 +16,7 @@
   --texto: #ffffff;
   --subtitulo: rgba(255, 255  , 255, 0.2);
   --onda:url("./img/onda-dark.svg");
+  --vantagens: #FFFF00;
 
  }
 @media (prefers-color-scheme: dark){
